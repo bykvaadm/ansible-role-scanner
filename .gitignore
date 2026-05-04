@@ -1,0 +1,32 @@
+# Generated reports (keep example files)
+report_*.html
+
+# Saved comments — export via UI button before committing if needed
+comments.json
+
+# Environment / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code project settings
+.claude/
+
+# macOS
+.DS_Store
