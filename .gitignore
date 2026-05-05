@@ -1,5 +1,6 @@
 # Generated reports (keep example files)
 report_*.html
+!report_template.html
 
 # Saved comments — export via UI button before committing if needed
 comments.json
